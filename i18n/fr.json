@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Verdy p"
+		]
+	},
+	"owid-desc": "Intégrer des visualisations de NotreMondeEnDonnées dans les pages wiki",
+	"owid-error-key": "Erreur : le nom de l’ensemble de données contient des caractères non valides.",
+	"owid-extensionname": "NotreMondeEnDonnées"
+}

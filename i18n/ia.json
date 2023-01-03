@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"owid-desc": "Incastrar visualizationes de OurWorldInData in le paginas wiki",
+	"owid-error-key": "Error: Le nomine del insimul de datos contine characteres non valide."
+}

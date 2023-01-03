@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sabelöga"
+		]
+	},
+	"owid-desc": "Bädda in visualiseringar från OurWorldInData på wikisidor",
+	"owid-error-key": "Fel: Datauppsättningsnamn innehåller ogiltiga tecken."
+}

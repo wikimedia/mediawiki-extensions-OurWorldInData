@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Rail"
+		]
+	},
+	"owid-desc": "Osadzanie wizualizacji danych z OurWorldInData wewnątrz stron wiki",
+	"owid-error-key": "Błąd: Nazwa zbioru danych zawiera nieprawidłowe znaki.",
+	"owid-extensionname": "Our World in Data"
+}
