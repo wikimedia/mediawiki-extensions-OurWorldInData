@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hamilton Abreu"
+		]
+	},
+	"owid-desc": "Integrar visualizações de ONossoMundoEmDados em páginas wiki",
+	"owid-error-key": "Erro: o nome do conjunto de dados contém caracteres inválidos.",
+	"owid-extensionname": "ONossoMundoEmDados"
+}
