@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"owid-desc": "Visualisaties van OurWorldInData insluiten op wikipagina's",
+	"owid-error-key": "Fout: Datasetnaam bevat ongeldige tekens."
+}
