@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
+			"Kly",
 			"列维劳德"
 		]
 	},
+	"owid-desc": "將來自 OurWorldInData 的視覺化效果內嵌到 wiki 頁面中",
 	"owid-error-key": "錯誤：資料集名稱包含無效字元。"
 }
