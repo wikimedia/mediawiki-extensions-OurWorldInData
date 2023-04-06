@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jon Harald Søby"
+		]
+	},
+	"owid-desc": "Bygg inn visualiseringer fra OurWorldInData i wikisider",
+	"owid-error-key": "Feil: Datasettnavnet inneholder ugyldige tegn."
+}
