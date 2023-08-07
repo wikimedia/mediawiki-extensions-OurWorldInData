@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nokeoo"
+		]
+	},
+	"owid-desc": "Viki puslapiuose įterpkite vizualizacijas iš OurWorldInData",
+	"owid-error-key": "Klaida: duomenų rinkinio pavadinime yra negalimų simbolių."
+}
