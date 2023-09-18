@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hedda"
+		]
+	},
+	"owid-desc": "OurWorldInData'dan görselleştirmeleri wiki sayfalarının içine yerleştirme",
+	"owid-error-key": "Hata: Veri kümesi adı geçersiz karakterler içeriyor."
+}
