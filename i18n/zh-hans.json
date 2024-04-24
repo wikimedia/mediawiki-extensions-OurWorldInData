@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"沈澄心"
+		]
+	},
+	"owid-desc": "将来自OurWorldInData的可视化效果嵌入到wiki页面中",
+	"owid-error-key": "错误：数据集名称包含无效字符。"
+}
