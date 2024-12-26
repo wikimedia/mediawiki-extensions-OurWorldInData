@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Alshamiri1"
+			"Alshamiri1",
+			"Meno25"
 		]
 	},
-	"owid-desc": "قم بتضمين تصورات من OurWorldInData داخل صفحات wiki",
+	"owid-desc": "تضمين التصورات من OurWorldInData داخل صفحات الويكي",
 	"owid-error-key": "خطأ: يحتوي اسم مجموعة البيانات على أحرف غير صالحة."
 }
