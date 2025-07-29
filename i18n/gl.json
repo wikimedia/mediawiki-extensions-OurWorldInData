@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Toliño"
+		]
+	},
+	"owid-desc": "Integrar as visualizacións de OurWorldInData dentro das páxinas do wiki",
+	"owid-error-key": "Erro: o nome do conxunto de datos contén caracteres non válidos."
+}
