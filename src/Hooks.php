@@ -3,8 +3,8 @@
 namespace MediaWiki\Extension\OurWorldInData;
 
 use Config;
-use Html;
 use MediaWiki\Hook\ParserFirstCallInitHook;
+use MediaWiki\Html\Html;
 use MWException;
 use Parser;
 use PPFrame;
