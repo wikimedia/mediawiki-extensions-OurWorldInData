@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ykhwong"
+			"Ykhwong",
+			"Tensama0415"
 		]
 	},
+	"owid-desc": "OurWorldInData에서부터 삽입된, 위키 문서 안의 시각화",
 	"owid-error-key": "오류: 데이터세트 이름에 유효하지 않은 문자가 포함되어 있습니다."
 }
