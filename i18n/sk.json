@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Wizzard"
+		]
+	},
+	"owid-desc": "Vkladá vizualizácie z OurWorldInData do wiki stránok",
+	"owid-error-key": "Chyba: Názov množiny údajov obsahuje neplatné znaky."
+}
